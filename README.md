@@ -1,0 +1,1 @@
+# MindReaderGame-Claude-Shannon-s-Algorithm
